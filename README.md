@@ -1,4 +1,3 @@
-FilterResult
 FilterResult is an iOS application designed to provide multi-selection filter results. This application follows the MVVM (Model-View-ViewModel) architecture to ensure a clean separation of concerns and maintainability.
 
 
