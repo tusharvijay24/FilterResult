@@ -15,8 +15,8 @@ Customization: You can extend the filtering options and adjust the filtering log
 
 To build and run this application, make sure your development environment meets the following requirements:
 
-Xcode: Version 15.0 or later
-iOS SDK: 16.0 or later
-Deployment Target: iOS 15.0 or later
-Swift: Version 5.8 or later
+1. Xcode: Version 15.0 or later
+2. iOS SDK: 16.0 or later
+3. Deployment Target: iOS 15.0 or later
+4. Swift: Version 5.8 or later
 
