@@ -1,0 +1,2 @@
+# FilterResult
+Multiselection filter results.
